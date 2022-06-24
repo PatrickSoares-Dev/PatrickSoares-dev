@@ -8,7 +8,7 @@
 <div align="center">
   <a href="https://github.com/PatrickSoares-Dev">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=PatrickSoares-Dev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSoares-Dev&layout=compact&langs_count=7&theme=cobalt"/>
+  ![PatrickSoares-Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickSoares-Dev&show_icons=true&theme=radical)
 </div>
 </div>
   
