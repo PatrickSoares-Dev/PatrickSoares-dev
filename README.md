@@ -3,7 +3,7 @@
 
 - 🔭 Estou trabalhando atualmente com front-end
 - 🌱 Estou aprendendo sobre JavaScript.
-- 📫 Entre em contato comigo através do e-mail: patricksoaresdeoliveira@gmail.com
+- 📫 Entre em contato comigo através do e-mail: patrickoliveiramoto@gmail.com
 
 <div align="center">
   <a href="https://github.com/PatrickSoares-Dev">
