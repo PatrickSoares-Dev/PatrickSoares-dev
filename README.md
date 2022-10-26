@@ -1,8 +1,8 @@
 ### Olá! eu me chamo Patrick 👋
 
 
-- 🔭 Estou trabalhando atualmente com front-end
-- 🌱 Estou aprendendo sobre JavaScript.
+- 🔭 Sou um desenvolvedor FULLSTACK com experiência em Desenvolvimento Web via ASP.NET no .NET Core Framework. Já trabalhei em projetos de criação de portais de serviços, desde a criação Front-end e o consumo de API's Rest via JavaScript e .NET.
+- 🌱 Estou aprendendo a C#, .NET CORE e ASP.NET.
 - 📫 Entre em contato comigo através do e-mail: patrickoliveiramoto@gmail.com
 
 <div align="center">
