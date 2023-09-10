@@ -11,6 +11,11 @@ Desenvolvedor FullStack experiente, com especialização na criação de portais
 - 🌱 Estou sempre buscando aprender e aprimorar minhas habilidades técnicas.
 - 📫 Entre em contato comigo através do e-mail: patrickoliveiramoto@gmail.com
 
+### Contato
+
+- WhatsApp: +55 21 9877-46741
+- E-mail: patrickoliveiramoto@gmail.com
+
 ## Tecnologias e Ferramentas
 
 <p align="center">
@@ -39,11 +44,6 @@ Desenvolvedor FullStack experiente, com especialização na criação de portais
   </a>
 </div>
 
-
-## LinkedIn
-
-Desenvolvedor FullStack experiente, com especialização na criação de portais de soluções CPaaS (As a Service), e profundo conhecimento no desenvolvimento de aplicações web utilizando C#, ASP.NET MVC .NET CORE, React e Node.js. Além disso, possuo expertise na criação de soluções E-commerce, na elaboração de websites empresariais usando WordPress e na eficaz manutenção de sistemas ativos no setor de Telecomunicações.
-
 ### Habilidades | Tecnologias:
 
 - Linguagens: C#, JavaScript
@@ -56,11 +56,6 @@ Desenvolvedor FullStack experiente, com especialização na criação de portais
 ### Portfólio
 
 [Meu Portfólio](https://github.com/PatrickSoares-Dev)
-
-### Contato
-
-- WhatsApp: +55 21 9877-46741
-- E-mail: patrickoliveiramoto@gmail.com
 
 ### Experiência
 
