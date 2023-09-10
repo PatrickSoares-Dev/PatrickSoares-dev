@@ -32,12 +32,13 @@ Olá! Sou o Patrick, um desenvolvedor FULLSTACK apaixonado por transformar ideia
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/PatrickSoares-Dev/CorgiSHOP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickSoares-Dev&repo=projeto-1&theme=dracula" alt="Projeto 1" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickSoares-Dev&repo=CorgiSHOP&theme=dracula" alt="CorgiSHOP" width="48%">
   </a>
   <a href="https://github.com/PatrickSoares-Dev/SistemaDeCadastroEscolar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickSoares-Dev&repo=projeto-2&theme=dracula" alt="Projeto 2" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickSoares-Dev&repo=SistemaDeCadastroEscolar&theme=dracula" alt="Sistema de Cadastro Escolar" width="48%">
   </a>
 </div>
+
 
 ## LinkedIn
 
