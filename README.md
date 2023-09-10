@@ -5,7 +5,7 @@
 
 ## Sobre Mim
 
-Olá! Sou o Patrick, um desenvolvedor FULLSTACK apaixonado por transformar ideias em código. Minha jornada inclui experiência em Desenvolvimento Web via ASP.NET no .NET Core Framework. Eu já trabalhei em projetos desafiadores, desde a criação do Front-end até o consumo de APIs REST, usando JavaScript e .NET.
+Desenvolvedor FullStack experiente, com especialização na criação de portais de soluções CPaaS (As a Service), e profundo conhecimento no desenvolvimento de aplicações web utilizando C#, ASP.NET MVC .NET CORE, React e Node.js. Além disso, possuo expertise na criação de soluções E-commerce, na elaboração de websites empresariais usando WordPress e na eficaz manutenção de sistemas ativos no setor de Telecomunicações.
 
 - 🔭 Atualmente estou aprofundando meu conhecimento  no universo do React com .NET core e Entity Framewok.
 - 🌱 Estou sempre buscando aprender e aprimorar minhas habilidades técnicas.
