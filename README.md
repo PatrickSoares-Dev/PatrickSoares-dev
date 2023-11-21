@@ -64,10 +64,10 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/patricksoares-d
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/PatrickSoares-Dev/CorgiSHOP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickSoares-Dev&repo=CorgiSHOP&theme=dracula" alt="CorgiSHOP" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickSoares-Dev&repo=CorgiSHOP&theme=dark" alt="CorgiSHOP" width="48%">
   </a>
   <a href="https://github.com/PatrickSoares-Dev/SistemaDeCadastroEscolar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickSoares-Dev&repo=SistemaDeCadastroEscolar&theme=dracula" alt="Sistema de Cadastro Escolar" width="48%">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PatrickSoares-Dev&repo=SistemaDeCadastroEscolar&theme=dark" alt="Sistema de Cadastro Escolar" width="48%">
   </a>
 </div>
 
@@ -92,5 +92,5 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/patricksoares-d
 - Experiência em Prototipagem: Utilizei proficientemente o Figma para a prototipagem de sistemas inovadores.
 - Colaborador Fundamental: Desempenhei um papel crucial em projetos de integração de sistemas, otimização de desempenho, depuração de código e colaboração fluida em equipes Ágeis.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickSoares-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSoares-Dev&layout=compact&langs_count=7&theme=dracula)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickSoares-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSoares-Dev&layout=compact&langs_count=7&theme=dark)
