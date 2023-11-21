@@ -1,7 +1,17 @@
 # Olá! Eu sou Patrick 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickSoares-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSoares-Dev&layout=compact&langs_count=7&theme=dracula)
+<img align="right" width="340" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+
+```kotlin
+{
+  "desenvolvedor": {
+    "nome": "Patrick Soares de Oliveira",
+    "area": "Desenvolvimento Web",
+    "linguagens": ["React",".NET Core", "API's RESTful", "SQL Server"
+    ]
+  }
+}
+```
 
 ## Sobre Mim
 
@@ -35,6 +45,21 @@ Desenvolvedor FullStack experiente, com especialização na criação de portais
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" alt="WordPress" height="40" style="margin: 10px">
 </p>
 
+### Experiência de trabalho
+
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/311572978_791074635669867_6005158648507829339_n.png?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=kqmZpAD3lG0AX__5bb_&_nc_ht=scontent-gru2-2.xx&oh=00_AfCCqpEFDAzbN_q3AZp7HPZvsMBuPhvlVKwDOEXo4cb2lA&oe=65624B6D"/>](https://telecall.com/)
+
+**Analista de Sistemas SR I** \
+[**Telecall**](https://telecall.com/) • Full-time \
+Linguagens & Tecnologias: `React`, `API's RESTFul`, `.NET CORE`, `C#`, `JavaScript`, `SQL Server`,\
+Projetos em destaque: [CPaaS Web](https://modavo.com.br/), [Telecall](https://telecall.com/) 
+<br/>
+<br/>
+
+Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/patricksoares-dev/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
+
 ## Projetos Relevantes
 
 <div style="display: flex; justify-content: space-between;">
@@ -67,4 +92,6 @@ Desenvolvedor FullStack experiente, com especialização na criação de portais
 - Experiência em Prototipagem: Utilizei proficientemente o Figma para a prototipagem de sistemas inovadores.
 - Colaborador Fundamental: Desempenhei um papel crucial em projetos de integração de sistemas, otimização de desempenho, depuração de código e colaboração fluida em equipes Ágeis.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickSoares-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSoares-Dev&layout=compact&langs_count=7&theme=dracula)
 ![Snake animation](https://github.com/PatrickSoares-dev/PatrickSoares-Dev/blob/output/github-contribution-grid-snake.svg)
