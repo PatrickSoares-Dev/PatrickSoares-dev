@@ -25,7 +25,7 @@ Desenvolvedor FullStack experiente, com especialização na criação de portais
 
 - WhatsApp: +55 21 9877-46741
 - E-mail: patrickoliveiramoto@gmail.com
-- [Currículo](https://www.linkedin.com/in/patricksoares-dev/overlay/1635538261656/single-media-viewer/?profileId=ACoAAC4XbN8B58oHFIOlXcMb01zUWuNnwLvJ9AQ)
+- [Currículo](https://www.linkedin.com/in/patricksoares-dev/overlay/1635542377050/single-media-viewer/?profileId=ACoAAC4XbN8B58oHFIOlXcMb01zUWuNnwLvJ9AQ)
 
 
 ## Tecnologias e Ferramentas
