@@ -94,4 +94,3 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/patricksoares-d
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickSoares-Dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSoares-Dev&layout=compact&langs_count=7&theme=dracula)
-![Snake animation](https://github.com/PatrickSoares-dev/PatrickSoares-Dev/blob/output/github-contribution-grid-snake.svg)
