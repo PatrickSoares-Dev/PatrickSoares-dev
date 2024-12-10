@@ -81,14 +81,14 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/patricksoares-d
 
 ### Experiência
 
--Desenvolvimento de Interfaces Front-End: Criação de interfaces de alto nível utilizando React e ASP.NET MVC, garantindo uma experiência de usuário intuitiva e responsiva.
--Desenvolvimento de APIs: Implementação de APIs orientadas a microserviços com .NET 4.5/4.7/5, ASP.NET Core e Entity Framework, proporcionando escalabilidade e eficiência. Utilização do Swagger para documentações e Docker para containerização, com deploy na Azure.
--Sistemas de Automação e Otimização: Desenvolvimento de sistemas de automação, sistemas descartáveis e otimização de processos utilizando Python, focando em aumentar a eficiência operacional e reduzir custos.
--Manutenção de Sistemas Legados: Manutenção e suporte a sistemas legados desenvolvidos em ASP.NET e C#, garantindo continuidade e funcionalidade
--Modernização de Soluções: Refatoração de sistemas e soluções existentes para novas tecnologias, como React, .NET e Python, a fim de melhorar a performance e a adaptabilidade.
--Levantamento de Requisitos: Colaboração com equipes de fábrica de software para levantamento de requisitos, assegurando que as soluções desenvolvidas atendam às necessidades do negócio.
--Saneamento de Dados: Utilização de SQL para saneamento e gestão de dados, assegurando a integridade e a qualidade das informações.
--Metodologias Ágeis: Aplicação de metodologias ágeis Kanban e Scrum através do Jira, facilitando a gestão de projetos e a comunicação entre equipes.
+- Desenvolvimento de Interfaces Front-End: Criação de interfaces de alto nível utilizando React e ASP.NET MVC, garantindo uma experiência de usuário intuitiva e responsiva.
+- Desenvolvimento de APIs: Implementação de APIs orientadas a microserviços com .NET 4.5/4.7/5, ASP.NET Core e Entity Framework, proporcionando escalabilidade e eficiência. Utilização do Swagger para documentações e Docker para containerização, com deploy na Azure.
+- Sistemas de Automação e Otimização: Desenvolvimento de sistemas de automação, sistemas descartáveis e otimização de processos utilizando Python, focando em aumentar a eficiência operacional e reduzir custos.
+- Manutenção de Sistemas Legados: Manutenção e suporte a sistemas legados desenvolvidos em ASP.NET e C#, garantindo continuidade e funcionalidade
+- Modernização de Soluções: Refatoração de sistemas e soluções existentes para novas tecnologias, como React, .NET e Python, a fim de melhorar a performance e a adaptabilidade.
+- Levantamento de Requisitos: Colaboração com equipes de fábrica de software para levantamento de requisitos, assegurando que as soluções desenvolvidas atendam às necessidades do negócio.
+- Saneamento de Dados: Utilização de SQL para saneamento e gestão de dados, assegurando a integridade e a qualidade das informações.
+- Metodologias Ágeis: Aplicação de metodologias ágeis Kanban e Scrum através do Jira, facilitando a gestão de projetos e a comunicação entre equipes.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickSoares-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSoares-Dev&layout=compact&langs_count=7&theme=dark)
