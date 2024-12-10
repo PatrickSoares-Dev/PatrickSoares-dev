@@ -6,8 +6,8 @@
 {
   "desenvolvedor": {
     "nome": "Patrick Soares de Oliveira",
-    "area": "Desenvolvimento Web",
-    "linguagens": ["React",".NET Core", "API's RESTful", "SQL Server"
+    "area": "Desenvolvimento Fullstack",
+    "linguagens": ["React",".NET Core", "SQL", "Python"
     ]
   }
 }
@@ -15,18 +15,18 @@
 
 ## Sobre Mim
 
-Desenvolvedor FullStack experiente, com especialização na criação de portais de soluções CPaaS (As a Service), e profundo conhecimento no desenvolvimento de aplicações web utilizando C#, ASP.NET MVC .NET CORE, React e Node.js. Além disso, possuo expertise na criação de soluções E-commerce, na elaboração de websites empresariais usando WordPress e na eficaz manutenção de sistemas ativos no setor de Telecomunicações.
+DSou analista e desenvolvedor de sistemas, especializado em React e .NET. Minha experiência generalista no desenvolvimento me permite entregar soluções completas e integradas, cobrindo todas as etapas do ciclo de desenvolvimento, da documentação ao deploy.
 
-- 🔭 Atualmente estou aprofundando meu conhecimento  no universo do React com .NET core e Entity Framewok.
+Utilizo Python para sistemas descartáveis e soluções de automação.
+
+- 🔭 Atualmente estou aprofundando meu conhecimento no Python para linguagem de automação.
 - 🌱 Estou sempre buscando aprender e aprimorar minhas habilidades técnicas.
 - 📫 Entre em contato comigo através do e-mail: patrickoliveiramoto@gmail.com
 
 ### Contato
 
-- WhatsApp: +55 21 9877-46741
+- WhatsApp: +55 21 996026088
 - E-mail: patrickoliveiramoto@gmail.com
-- [Currículo](https://www.linkedin.com/in/patricksoares-dev/overlay/1635542377050/single-media-viewer/?profileId=ACoAAC4XbN8B58oHFIOlXcMb01zUWuNnwLvJ9AQ)
-
 
 ## Tecnologias e Ferramentas
 
@@ -36,6 +36,7 @@ Desenvolvedor FullStack experiente, com especialização na criação de portais
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" height="40" style="margin: 10px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" height="40" style="margin: 10px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="C#" height="40" style="margin: 10px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" height="40" style="margin: 10px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="40" style="margin: 10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" height="40" style="margin: 10px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" style="margin: 10px">
