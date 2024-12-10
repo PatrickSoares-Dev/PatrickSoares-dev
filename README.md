@@ -73,23 +73,22 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/patricksoares-d
 ### Habilidades | Tecnologias:
 
 - Linguagens: C#, JavaScript
-- Frameworks: .NET CORE, React, Node, Bootstrap, ASP.NET MVC,
-- Bancos de Dados: SQL Server, MySQL
+- Frameworks: .NET CORE, React, Bootstrap, ASP.NET MVC, Python
+- Bancos de Dados: SQL Server, MySQL, PostgreeSql
 - Metodologias Ágeis: Scrum
 - Conhecimento Intermediário de UX/UI
 - Entity Framework, REST APIs, Express e mais.
 
 ### Experiência
 
-- Papel de Liderança em Desenvolvimento: Orquestrei o design e a implementação de um portal CPaaS abrangente, alcançando a criação bem-sucedida de APIs de SMS, Campanhas SMS, Painéis, 2FA, Portabilidade Numérica, Text-To-Speech e funcionalidades de Interconexão perfeita.
-- Sucesso no E-commerce: Construí com sucesso uma plataforma de E-commerce para a venda de serviços CPaaS (MODAVO).
-- Websites Corporativos Atraentes: Criei websites corporativos envolventes personalizados para empresas.
-- Manutenção e Aprimoramento de Sistemas: Mantive e elevei habilmente o desempenho de sistemas ativos.
-- Segurança Inovadora: Liderou o desenvolvimento de um sistema de criptografia de arquivos para proteger dados corporativos sensíveis.
-- Pagamentos Simplificados: Elaborei um BOT de verificação de gateway de pagamento integrado com WordPress e um banco de dados para otimizar a gestão de créditos.
-- Relatórios Esclarecedores: Produzi scripts e consultas SQL para gerar relatórios significativos.
-- Experiência em Prototipagem: Utilizei proficientemente o Figma para a prototipagem de sistemas inovadores.
-- Colaborador Fundamental: Desempenhei um papel crucial em projetos de integração de sistemas, otimização de desempenho, depuração de código e colaboração fluida em equipes Ágeis.
+-Desenvolvimento de Interfaces Front-End: Criação de interfaces de alto nível utilizando React e ASP.NET MVC, garantindo uma experiência de usuário intuitiva e responsiva.
+-Desenvolvimento de APIs: Implementação de APIs orientadas a microserviços com .NET 4.5/4.7/5, ASP.NET Core e Entity Framework, proporcionando escalabilidade e eficiência. Utilização do Swagger para documentações e Docker para containerização, com deploy na Azure.
+-Sistemas de Automação e Otimização: Desenvolvimento de sistemas de automação, sistemas descartáveis e otimização de processos utilizando Python, focando em aumentar a eficiência operacional e reduzir custos.
+-Manutenção de Sistemas Legados: Manutenção e suporte a sistemas legados desenvolvidos em ASP.NET e C#, garantindo continuidade e funcionalidade
+-Modernização de Soluções: Refatoração de sistemas e soluções existentes para novas tecnologias, como React, .NET e Python, a fim de melhorar a performance e a adaptabilidade.
+-Levantamento de Requisitos: Colaboração com equipes de fábrica de software para levantamento de requisitos, assegurando que as soluções desenvolvidas atendam às necessidades do negócio.
+-Saneamento de Dados: Utilização de SQL para saneamento e gestão de dados, assegurando a integridade e a qualidade das informações.
+-Metodologias Ágeis: Aplicação de metodologias ágeis Kanban e Scrum através do Jira, facilitando a gestão de projetos e a comunicação entre equipes.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PatrickSoares-Dev&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSoares-Dev&layout=compact&langs_count=7&theme=dark)
