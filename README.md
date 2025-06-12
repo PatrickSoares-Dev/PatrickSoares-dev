@@ -19,7 +19,6 @@ DSou analista e desenvolvedor de sistemas, especializado em React e .NET. Minha 
 
 Utilizo Python para sistemas descartáveis e soluções de automação.
 
-- 🔭 Atualmente estou aprofundando meu conhecimento no Python para linguagem de automação.
 - 🌱 Estou sempre buscando aprender e aprimorar minhas habilidades técnicas.
 - 📫 Entre em contato comigo através do e-mail: patrickoliveiramoto@gmail.com
 
